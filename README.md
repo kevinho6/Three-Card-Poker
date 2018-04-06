@@ -1,6 +1,8 @@
-**_Three Card Poker_**
+# Three Card Poker #
 
 *This program was written in Python 2.7 using PyCharm*
+
+**Functionality**
 
 This program takes in as input a block of text involving: the number of players on the first line and a player id and value of each of their three cards on each subsequent line. It outputs the winner(s) of the match in one line.
 
@@ -14,39 +16,34 @@ This program takes in as input a block of text involving: the number of players 
 
 Cards are a string of length 2. The first character represents the rank of the card, it can represent a number or a letter. The second character represents the suit of the card.
 
-Ex. "Kd" is the King of Diamonds
+Ex. "Kd" is the King of Diamonds <br/>
     "2c" is the 2 of Clubs
 
 **Input Format**
 
-Number of Players
+Number of Players <br/>
 Player ID Card1 Card2 Card3
 
 **Test Cases**
 
-*Example 1.*
+*Example 1*
 
-Input:
+Input: <br/>
 
-3
-
-0 2c As 4d
-
-1 Kd 5h 6c
-
-2 Jc Jd 9s
+3 <br />
+0 2c As 4d <br/>
+1 Kd 5h 6c <br/>
+2 Jc Jd 9s <br/>
 
 Output: 2
 
-*Example 2.*
+*Example 2*
 
-Input:
-3
+Input: <br/>
+3 <br/>
+0 Kh 4d 3c <br/>
+1 Jd 5c 7s <br/>
+2 9s 3h 2d <br/>
 
-0 Kh 4d 3c
-
-1 Jd 5c 7s
-
-2 9s 3h 2d
-
-Output: 0
+Output: <br/>
+0
