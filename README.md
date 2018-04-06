@@ -6,7 +6,7 @@ This program was written in Python 2.7 using PyCharm
 
 Specific Implementation Details
 
-- This program converts each card in a player's hand into an integer, calculates the player's hand using the integer values of each card, returns a floating point number and returns. The integer representation of each card represents the strength of that card relative to other cards. The integer part of the floating point number represents the player's hand combination and the decimal part of the floating point number represents the strength of that combination relative to other players with the same combination.
+- To calculate the value of a player's hand this program converts each card in the player's hand into an integer, calculates the strength of the player's hand using the integer values of each card. The integer representation of each card represents the strength of that card relative to other cards. The integer part of the floating point number represents the player's hand combination and the decimal part of the floating point number represents the strength of that combination relative to other players with the same combination.
 
 - This program expects exact input as specified. It does not check for blank or incorrectly formatted input.
 
