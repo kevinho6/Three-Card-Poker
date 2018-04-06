@@ -28,6 +28,7 @@ PlayerID Card1 Card2 Card3
 **Test Cases**
 
 *Example 1* <br/>
+
 Input: <br/>
 3 <br />
 0 2c As 4d <br/>
@@ -37,6 +38,7 @@ Input: <br/>
 Output: 2
 
 *Example 2* <br/>
+
 Input: <br/>
 3 <br/>
 0 Kh 4d 3c <br/>
