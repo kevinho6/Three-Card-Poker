@@ -1,8 +1,8 @@
 **_Three Card Poker_**
 
-This program takes in as input a block of text involving: the number of players on the first line and a player id and value of each of their three cards on each subsequent line. It outputs the winner(s) of the match in one line.
-
 *This program was written in Python 2.7 using PyCharm*
+
+This program takes in as input a block of text involving: the number of players on the first line and a player id and value of each of their three cards on each subsequent line. It outputs the winner(s) of the match in one line.
 
 **Specific Implementation Details**
 
