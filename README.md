@@ -1,23 +1,23 @@
-Three Card Poker
+**_Three Card Poker_**
 
 This program takes in as input a block of text involving: the number of players on the first line and a player id and value of each of their three cards on each subsequent line. It outputs the winner(s) of the match in one line.
 
 This program was written in Python 2.7 using PyCharm
 
-Specific Implementation Details
+**Specific Implementation Details**
 
 - To calculate the value of a player's hand this program converts each card in the player's hand into an integer, calculates the strength of the player's hand using the integer values of each card. The integer representation of each card represents the strength of that card relative to other cards. The integer part of the floating point number represents the player's hand combination and the decimal part of the floating point number represents the strength of that combination relative to other players with the same combination.
 
 - This program expects exact input as specified. It does not check for blank or incorrectly formatted input.
 
-Card Format
+**Card Format**
 
 Cards are a string of length 2. The first character represents the rank of the card, it can represent a number or a letter. The second character represents the suit of the card.
 
 Ex. "Kd" is the King of Diamonds
       "2c" is the 2 of Clubs
       
-Test Cases
+**Test Cases**
 
 Ex1.
 
