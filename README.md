@@ -2,7 +2,7 @@
 
 This program takes in as input a block of text involving: the number of players on the first line and a player id and value of each of their three cards on each subsequent line. It outputs the winner(s) of the match in one line.
 
-This program was written in Python 2.7 using PyCharm
+*This program was written in Python 2.7 using PyCharm*
 
 **Specific Implementation Details**
 
@@ -15,11 +15,16 @@ This program was written in Python 2.7 using PyCharm
 Cards are a string of length 2. The first character represents the rank of the card, it can represent a number or a letter. The second character represents the suit of the card.
 
 Ex. "Kd" is the King of Diamonds
-      "2c" is the 2 of Clubs
-      
+    "2c" is the 2 of Clubs
+
+**Input Format**
+
+Number of Players
+Player ID Card1 Card2 Card3
+
 **Test Cases**
 
-Ex1.
+*Example 1.*
 
 Input:
 3
@@ -27,10 +32,9 @@ Input:
 1 Kd 5h 6c
 2 Jc Jd 9s
 
-Output:
-2
+Output: 2
 
-Ex2.
+*Example 2.*
 
 Input:
 3
@@ -38,5 +42,4 @@ Input:
 1 Jd 5c 7s
 2 9s 3h 2d
 
-Output:
-0
+Output: 0
