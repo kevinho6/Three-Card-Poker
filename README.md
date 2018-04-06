@@ -29,7 +29,6 @@ PlayerID Card1 Card2 Card3
 
 *Example 1* <br/>
 Input: <br/>
-
 3 <br />
 0 2c As 4d <br/>
 1 Kd 5h 6c <br/>
