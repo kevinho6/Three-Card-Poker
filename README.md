@@ -27,9 +27,13 @@ Player ID Card1 Card2 Card3
 *Example 1.*
 
 Input:
+
 3
+
 0 2c As 4d
+
 1 Kd 5h 6c
+
 2 Jc Jd 9s
 
 Output: 2
@@ -38,8 +42,11 @@ Output: 2
 
 Input:
 3
+
 0 Kh 4d 3c
+
 1 Jd 5c 7s
+
 2 9s 3h 2d
 
 Output: 0
