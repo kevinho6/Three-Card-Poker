@@ -2,6 +2,10 @@
 
 *This program was written in Python 2.7 using PyCharm*
 
+*Quick Fixes*
+- Pair should include the high card
+- Else should calculate the entire cost of the hand (same method as flush)
+
 **Functionality**
 
 This program takes in as input a block of text involving: the number of players on the first line and a player id and value of each of their three cards on each subsequent line. It outputs the winner(s) of the match in one line.
